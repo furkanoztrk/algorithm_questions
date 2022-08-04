@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\bin\Debug\net6.0\algoritma_sorulari.exe
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\bin\Debug\net6.0\algoritma_sorulari.deps.json
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\bin\Debug\net6.0\algoritma_sorulari.runtimeconfig.json
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\bin\Debug\net6.0\algoritma_sorulari.dll
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\bin\Debug\net6.0\algoritma_sorulari.pdb
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\algoritma_sorulari.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\algoritma_sorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\algoritma_sorulari.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\algoritma_sorulari.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\algoritma_sorulari.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\algoritma_sorulari.dll
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\refint\algoritma_sorulari.dll
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\algoritma_sorulari.pdb
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\algoritma_sorulari.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\test\algoritma_sorulari\obj\Debug\net6.0\ref\algoritma_sorulari.dll
